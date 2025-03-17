@@ -57,4 +57,3 @@ gameCounter++;
 console.log(gameCounter);
 //resourses mdn,https://tc39.es/ecma262/multipage/abstract-operations.html
 
-
