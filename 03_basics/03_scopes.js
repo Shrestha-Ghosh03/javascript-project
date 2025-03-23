@@ -44,12 +44,18 @@ if(true){
 
 // +++++++++++++++++++ interesting ++++++++++++++++++++++++++
 
+
+console.log(addone(5));
+
 function addone(num) {
     return num+1
 }
-addone(5);// not printed yet
+//addone(5);// not printed yet
+
 
 //function declared in variable
+
+//console.log(addtwo(5));// gives error
 const addtwo= function(num){
     return num+2
 }
